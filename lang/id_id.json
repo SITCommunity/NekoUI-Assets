@@ -1,0 +1,12 @@
+{
+  "nekoui.menu.play": "MAIN",
+  "nekoui.menu.singleplayer": "",
+  "nekoui.menu.multiplayer": "",
+  "nekoui.menu.options": "Pengaturan",
+  "nekoui.menu.mods": "MODS",
+  "nekoui.menu.config": "CONFIG",
+  "nekoui.menu.quit": "Keluar",
+  "nekoui.menu.openconfig": "Konfigurasi",
+  "nekoui.menu.realms": "REALMS",
+  "nekoui.config.gui.reset.all": "Ulangi Semua"
+}

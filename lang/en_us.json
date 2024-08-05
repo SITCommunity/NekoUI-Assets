@@ -1,0 +1,12 @@
+{
+  "nekoui.menu.play": "PLAY",
+  "nekoui.menu.singleplayer": "Singleplayer",
+  "nekoui.menu.multiplayer": "Multiplayer",
+  "nekoui.menu.options": "Options",
+  "nekoui.menu.mods": "MODS",
+  "nekoui.menu.config": "CONFIG",
+  "nekoui.menu.quit": "Quit",
+  "nekoui.menu.openconfig": "Config",
+  "nekoui.menu.realms": "REALMS",
+  "nekoui.config.gui.reset.all": "Reset"
+}
