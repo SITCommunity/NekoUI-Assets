@@ -1,1 +1,32 @@
-{ }
+{
+  "nekoui.menu.play": "MAIN",
+  "nekoui.menu.options": "Pengaturan",
+  "nekoui.menu.mods": "MODS",
+  "nekoui.menu.config": "KONFIGURASI",
+  "nekoui.menu.quit": "Keluar",
+  "nekoui.menu.openconfig": "Konfigurasi",
+  "nekoui.menu.realms": "REALMS",
+  "nekoui.config.back": "Kembali",
+
+  "nekoui.defaults.button.label": "NekoUI",
+  "nekoui.defaults.button.url": "https://github.com/SITCommunity/NekoUI-Download",
+
+  "nekoui.error.connect": "Tidak dapat terhubung dengan Discord.",
+  "nekoui.error.discord.assets.fallback": "Asset dengan nama %1$s tidak ada, mencoba untuk menggunakan ikon alternatif %2$s.",
+  "nekoui.error.invalid.icon.empty": "Unable to detect any usable icons! Please submit a mod issue if this is a mistake...",
+  "nekoui.error.discord.assets.load": "Unable to get Discord assets!",
+  "nekoui.error.verbose": "Please enable verbose mode to view more details.",
+  "nekoui.error.parser": "A parser exception has occurred:",
+  "nekoui.error.compiler": "A compiler exception has occurred:",
+
+  "nekoui.info.connect": "Attempting to connect to Discord (%1$s/%2$s)...",
+  "nekoui.info.discord.assets.detected": "%1$s total assets detected!",
+  "nekoui.info.shutdown": "Shutting down...",
+  "nekoui.info.discord.assets.load": "Checking Discord for available assets with Client Id: %1$s",
+  "nekoui.info.discord.assets.load.credits": "Coded by brokenedtz | https://github.com/brokenedtzjs",
+
+  "nekoui.message.unsupported": "This feature is not supported in this version of Minecraft",
+
+  "nekoui.log.original": "Original:",
+  "nekoui.log.info": "Info:"
+}
