@@ -22,3 +22,9 @@ Right now our need translator to every country on the world
 
 ## Did i will on credits if i contribute to nekoui?
 You will on mods credits if you contribute on nekoui
+
+# Credit
+## Translator
+- en_us (English) [@brokenedtzjs](https://github.com/brokenedtzjs)
+- en_id / id_id (Indonesian) [@Hans](https://github.com/Neko059)
+- en_uk (Ukrainian) [@howtoscriptinpython](https://github.com/howtoscriptinpython)
